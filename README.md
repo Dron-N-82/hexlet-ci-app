@@ -1,3 +1,5 @@
+[![setup_start](https://github.com/Dron-N-82/hexlet-ci-app/actions/workflows/setup_start.yaml/badge.svg)](https://github.com/Dron-N-82/hexlet-ci-app/actions/workflows/setup_start.yaml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
